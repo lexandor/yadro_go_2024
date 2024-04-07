@@ -1,0 +1,4 @@
+xkcd:
+  source_url: https://xkcd.com
+  db_file: database.json
+  db_size: 100
